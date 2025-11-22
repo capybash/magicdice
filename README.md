@@ -24,6 +24,14 @@ Magic Dice adds animated dice rolls with multiple visual styles and smooth roll 
 ## 📦 Installation
 
 Run this in your Flarum root directory:
-
-```bash
+```
 composer require capybash/magicdice:"*"
+```
+
+## 🔗 Links
+- [GitHub Repository](https://github.com/capybash/magicdice)
+- [Packagist](https://packagist.org/packages/capybash/magicdice)
+- [Extiverse](https://extiverse.com/extension/capybash/magicdice)
+- [Discuss](https://discuss.flarum.org/d/38444-magicdice-animated-dice-rolls)
+
+Based on the simple yet wonderful [Roll a Die](https://discuss.flarum.org/d/29698-roll-a-die) extension
